@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/simon-johansson/ci-and-coveralls-test",
   "dependencies": {
-    "coveralls": "^2.11.2"
+    "coveralls": "^2.11.2",
+    "mocha": "^2.1.0"
   }
 }
